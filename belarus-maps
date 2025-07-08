@@ -1,0 +1,30 @@
+[
+  {
+    "region_iso_code": "BR",
+    "region_name": "Brestskaya voblasts'"
+  },
+  {
+    "region_iso_code": "HR",
+    "region_name": "Hrodzyenskaya voblasts'"
+  },
+  {
+    "region_iso_code": "HO",
+    "region_name": "Homyel'skaya voblasts'"
+  },
+  {
+    "region_iso_code": "MA",
+    "region_name": "Mahilyowskaya voblasts'"
+  },
+  {
+    "region_iso_code": "MI",
+    "region_name": "Minskaya voblasts'"
+  },
+  {
+    "region_iso_code": "VI",
+    "region_name": "Vitsyebskaya voblasts'"
+  },
+  {
+    "region_iso_code": "X1~",
+    "region_name": "Horad Minsk"
+  }
+]
