@@ -5,7 +5,6 @@
       "type": "Feature",
       "properties": {
         "GID_1": "BLR.1_1",
-        "GID_0": "BLR",
         "COUNTRY": "Belarus",
         "NAME_1": "Brestskaya voblasts'",
         "VARNAME_1": "Брест|BrestskayaVoblasts'|Brèst",
@@ -13,8 +12,9 @@
         "TYPE_1": "Oblast",
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
-        "HASC_1": "BY.BR",
-        "ISO_1": "NA"
+        "HASC_1": "BR",
+        "ISO_1": "NA",
+        "country_iso_code": "BLR"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4970,7 +4970,6 @@
       "type": "Feature",
       "properties": {
         "GID_1": "BLR.2_1",
-        "GID_0": "BLR",
         "COUNTRY": "Belarus",
         "NAME_1": "Homyel'skaya voblasts'",
         "VARNAME_1": "Гомель|Homyel'skayaVoblasts'|Ho",
@@ -4978,8 +4977,9 @@
         "TYPE_1": "Oblast",
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
-        "HASC_1": "BY.HO",
-        "ISO_1": "NA"
+        "HASC_1": "HO",
+        "ISO_1": "NA",
+        "country_iso_code": "BLR"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9531,7 +9531,6 @@
       "type": "Feature",
       "properties": {
         "GID_1": "BLR.3_1",
-        "GID_0": "BLR",
         "COUNTRY": "Belarus",
         "NAME_1": "Hrodzyenskaya voblasts'",
         "VARNAME_1": "Гродно|HrodzenskayaVoblasts'",
@@ -9539,8 +9538,9 @@
         "TYPE_1": "Oblast",
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
-        "HASC_1": "BY.HR",
-        "ISO_1": "NA"
+        "HASC_1": "HR",
+        "ISO_1": "NA",
+        "country_iso_code": "BLR"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15576,7 +15576,6 @@
       "type": "Feature",
       "properties": {
         "GID_1": "BLR.5_1",
-        "GID_0": "BLR",
         "COUNTRY": "Belarus",
         "NAME_1": "Minskaya voblasts'",
         "VARNAME_1": "Минск|МинскаяОбласть|MinskObla",
@@ -15584,8 +15583,9 @@
         "TYPE_1": "Oblast",
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
-        "HASC_1": "BY.MI",
-        "ISO_1": "NA"
+        "HASC_1": "MI",
+        "ISO_1": "NA",
+        "country_iso_code": "BLR"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22939,7 +22939,6 @@
       "type": "Feature",
       "properties": {
         "GID_1": "BLR.7_1",
-        "GID_0": "BLR",
         "COUNTRY": "Belarus",
         "NAME_1": "Horad Minsk",
         "VARNAME_1": "Минск|МинскаяОбласть|MinskObla",
@@ -22947,8 +22946,9 @@
         "TYPE_1": "City",
         "ENGTYPE_1": "City",
         "CC_1": "NA",
-        "HASC_1": "BY.MI",
-        "ISO_1": "NA"
+        "HASC_1": "X1~",
+        "ISO_1": "NA",
+        "country_iso_code": "BLR"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24384,7 +24384,6 @@
       "type": "Feature",
       "properties": {
         "GID_1": "BLR.4_1",
-        "GID_0": "BLR",
         "COUNTRY": "Belarus",
         "NAME_1": "Mahilyowskaya voblasts'",
         "VARNAME_1": "Могилёв|Mahiljow|MahilyowskayaV",
@@ -24392,8 +24391,9 @@
         "TYPE_1": "Oblast",
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
-        "HASC_1": "BY.MA",
-        "ISO_1": "NA"
+        "HASC_1": "MA",
+        "ISO_1": "NA",
+        "country_iso_code": "BLR"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30141,7 +30141,6 @@
       "type": "Feature",
       "properties": {
         "GID_1": "BLR.6_1",
-        "GID_0": "BLR",
         "COUNTRY": "Belarus",
         "NAME_1": "Vitsyebskaya voblasts'",
         "VARNAME_1": "Витебск|Vitsyebsk|Vicebsk|Vitebs",
@@ -30149,8 +30148,9 @@
         "TYPE_1": "Oblast",
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
-        "HASC_1": "BY.VI",
-        "ISO_1": "NA"
+        "HASC_1": "VI",
+        "ISO_1": "NA",
+        "country_iso_code": "BLR"
       },
       "geometry": {
         "type": "MultiPolygon",
