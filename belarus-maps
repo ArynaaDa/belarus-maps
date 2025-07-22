@@ -4,12 +4,17 @@
     {
       "type": "Feature",
       "properties": {
+        "GID_1": "BLR.1_1",
+        "GID_0": "BLR",
         "COUNTRY": "Belarus",
         "NAME_1": "Brestskaya voblasts'",
         "VARNAME_1": "Брест|BrestskayaVoblasts'|Brèst",
-        "NL_NAME_1": "Брестская область",
+        "NL_NAME_1": "Брэсцкая",
         "TYPE_1": "Oblast",
-        "HASC_1": "BR"
+        "ENGTYPE_1": "Region",
+        "CC_1": "NA",
+        "HASC_1": "BY.BR",
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4959,18 +4964,22 @@
             ]
           ]
         ]
-      },
-      "id": 0
+      }
     },
     {
       "type": "Feature",
       "properties": {
+        "GID_1": "BLR.2_1",
+        "GID_0": "BLR",
         "COUNTRY": "Belarus",
         "NAME_1": "Homyel'skaya voblasts'",
         "VARNAME_1": "Гомель|Homyel'skayaVoblasts'|Ho",
-        "NL_NAME_1": "Гомельская область",
+        "NL_NAME_1": "Гомельская",
         "TYPE_1": "Oblast",
-        "HASC_1": "HO"
+        "ENGTYPE_1": "Region",
+        "CC_1": "NA",
+        "HASC_1": "BY.HO",
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9521,12 +9530,17 @@
     {
       "type": "Feature",
       "properties": {
+        "GID_1": "BLR.3_1",
+        "GID_0": "BLR",
         "COUNTRY": "Belarus",
         "NAME_1": "Hrodzyenskaya voblasts'",
         "VARNAME_1": "Гродно|HrodzenskayaVoblasts'",
-        "NL_NAME_1": "Гродненская область",
+        "NL_NAME_1": "Гродзенская",
         "TYPE_1": "Oblast",
-        "HASC_1": "HR"
+        "ENGTYPE_1": "Region",
+        "CC_1": "NA",
+        "HASC_1": "BY.HR",
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15556,18 +15570,22 @@
             ]
           ]
         ]
-      },
-      "id": 2
+      }
     },
     {
       "type": "Feature",
       "properties": {
+        "GID_1": "BLR.5_1",
+        "GID_0": "BLR",
         "COUNTRY": "Belarus",
         "NAME_1": "Minskaya voblasts'",
         "VARNAME_1": "Минск|МинскаяОбласть|MinskObla",
-        "NL_NAME_1": "Минская область",
+        "NL_NAME_1": "Мінская",
         "TYPE_1": "Oblast",
-        "HASC_1": "MI"
+        "ENGTYPE_1": "Region",
+        "CC_1": "NA",
+        "HASC_1": "BY.MI",
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22915,18 +22933,22 @@
             ]
           ]
         ]
-      },
-      "id": 3
+      }
     },
     {
       "type": "Feature",
       "properties": {
+        "GID_1": "BLR.7_1",
+        "GID_0": "BLR",
         "COUNTRY": "Belarus",
         "NAME_1": "Horad Minsk",
         "VARNAME_1": "Минск|МинскаяОбласть|MinskObla",
-        "NL_NAME_1": "Минск",
+        "NL_NAME_1": "Мінская",
         "TYPE_1": "City",
-        "HASC_1": "X1~"
+        "ENGTYPE_1": "City",
+        "CC_1": "NA",
+        "HASC_1": "BY.MI",
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24356,18 +24378,22 @@
             ]
           ]
         ]
-      },
-      "id": 4
+      }
     },
     {
       "type": "Feature",
       "properties": {
+        "GID_1": "BLR.4_1",
+        "GID_0": "BLR",
         "COUNTRY": "Belarus",
         "NAME_1": "Mahilyowskaya voblasts'",
         "VARNAME_1": "Могилёв|Mahiljow|MahilyowskayaV",
-        "NL_NAME_1": "Могилевская область",
+        "NL_NAME_1": "Магілёўская",
         "TYPE_1": "Oblast",
-        "HASC_1": "MA"
+        "ENGTYPE_1": "Region",
+        "CC_1": "NA",
+        "HASC_1": "BY.MA",
+        "ISO_1": "Могилевская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30109,18 +30135,22 @@
             ]
           ]
         ]
-      },
-      "id": 5
+      }
     },
     {
       "type": "Feature",
       "properties": {
+        "GID_1": "BLR.6_1",
+        "GID_0": "BLR",
         "COUNTRY": "Belarus",
         "NAME_1": "Vitsyebskaya voblasts'",
         "VARNAME_1": "Витебск|Vitsyebsk|Vicebsk|Vitebs",
-        "NL_NAME_1": "Витебская область",
+        "NL_NAME_1": "Вiцебская",
         "TYPE_1": "Oblast",
-        "HASC_1": "VI"
+        "ENGTYPE_1": "Region",
+        "CC_1": "NA",
+        "HASC_1": "BY.VI",
+        "ISO_1": "NA"
       },
       "geometry": {
         "type": "MultiPolygon",
