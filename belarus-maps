@@ -14,7 +14,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BY.BR",
-        "ISO_1": "NA"
+        "ISO_1": "Брестская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4979,7 +4979,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BY.HO",
-        "ISO_1": "NA"
+        "ISO_1": "Гомельская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9540,7 +9540,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BY.HR",
-        "ISO_1": "NA"
+        "ISO_1": "Гродненская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15585,7 +15585,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BY.MI",
-        "ISO_1": "NA"
+        "ISO_1": "Минская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22948,7 +22948,7 @@
         "ENGTYPE_1": "City",
         "CC_1": "NA",
         "HASC_1": "BY.MI",
-        "ISO_1": "NA"
+        "ISO_1": "Минск"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30150,7 +30150,7 @@
         "ENGTYPE_1": "Region",
         "CC_1": "NA",
         "HASC_1": "BY.VI",
-        "ISO_1": "NA"
+        "ISO_1": "Витебская область"
       },
       "geometry": {
         "type": "MultiPolygon",
